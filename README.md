@@ -4,7 +4,6 @@
 <br>
 
 ```
-
 #Arch
 sudo pacman -Syu python python-pip kitty git --needed
 git clone https://github.com/Walker-00/WiDoS
@@ -16,5 +15,8 @@ sudo apt install python python3-pip kitty git -y
 git clone https://github.com/Walker-00/WiDoS
 cd WiDoS && python3 WiDoS.py -h
 ```
-
-#
+<br>
+<br>
+<code>Screenshot</code>
+<img src=https://firebasestorage.googleapis.com/v0/b/yyyy-yyyy.appspot.com/o/d.png?alt=media&token=1ae7cfc9-78de-49ac-a2e5-0c49278695bb/>
+<img src=https://firebasestorage.googleapis.com/v0/b/yyyy-yyyy.appspot.com/o/j.png?alt=media&token=e2b277f6-183e-48ce-b5ad-3713fc4ae96c/>
