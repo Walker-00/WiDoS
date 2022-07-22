@@ -1,5 +1,5 @@
 # WiDoS
-<h2>Coded By Walker.<br>All Rights Reverse to Walker and RizeKishimaro.<br>DDoS/DoS Script, it might can break your device which you use old and low cpu or gpu.<br>If you do something illegal with this script I'm not take any responsibility.</h2><br>
+<h2>Coded By Walker.<br>All Rights Reverse to Walker and RizeKishimaro.<br>DDoS/DoS Script, it might can break your device which you use old and low cpu or gpu.<br>If you do something illegal with this script I'm not take any responsibility.<br>This tool script is not allowed to use for Ei Kyaw and her Group members.</h2><br>
 <h1><code>#Require</code></h1>
 
 ```
